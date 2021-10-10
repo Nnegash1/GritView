@@ -18,7 +18,7 @@ To create this backend system, we used Python along with Flask which served as o
 
 Requirement Matrix
 
-![](Screen Shot 2021-10-09 at 10.22.18 PM.png)
+![](Screen%20Shot%202021-10-09%20at%2010.22.18%20PM.png)
 ![](Screen Shot 2021-10-09 at 10.22.45 PM.png)
 
 
