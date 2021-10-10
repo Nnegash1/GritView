@@ -25,7 +25,7 @@ To create this backend system, we used Python along with Flask which served as o
 
 
 
-##References
+# References
 
 University of Maryland, Baltimore County (2020). Grade and Course Evaluation Data, 202001 [Csv]. Baltimore: UMBC.
 PlanetTerp. (2017). mock data [Csv]. College Park: PlanetTerp.
