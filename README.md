@@ -6,8 +6,7 @@ The purpose of this document is to detail the capabilities of our software produ
 for Gritview, a platform that provides end-users with structured data containing grade distribution, course evaluations, course details, professor details and 
 reviews based on queries provided via the endpoints.
 
-![Image of Yaktocat]
-(https://github.com/Nnegash1/GritView)
+https://github.com/Nnegash1/GritView/blob/main/Architecture.png
 
 
 The figure above displays the logical architecture of the Gritview API. In this system design, the client can make requests to read or write data, the user’s request is sent to the app server and then stored or retrieved from the database. When a client wishes to view information regarding details of a course, details of a professor, grades received in a course or evaluations, a request is received by the app server and in collaboration with our API, it queries the database in order to get the information corresponding to the request.
