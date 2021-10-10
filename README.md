@@ -11,15 +11,16 @@ reviews based on queries provided via the endpoints.
 
 The figure above displays the logical architecture of the Gritview API. In this system design, the client can make requests to read or write data, the user’s request is sent to the app server and then stored or retrieved from the database. When a client wishes to view information regarding details of a course, details of a professor, grades received in a course or evaluations, a request is received by the app server and in collaboration with our API, it queries the database in order to get the information corresponding to the request.
 
+# DataBase 
 
 To create this backend system, we used Python along with Flask which served as our web framework. To develop the database, we used PostgreSQL. Throughout the development of this system, we utilized the Agile Scrum methodology. 
 
-![](Screen Shot 2021-10-09 at 10.20.02 PM.png)
+![](Screen%20Shot%202021-10-09%20at%2010.20.02%20PM.png)
 
-Requirement Matrix
+# Requirement Matrix
 
 ![](Screen%20Shot%202021-10-09%20at%2010.22.18%20PM.png)
-![](Screen Shot 2021-10-09 at 10.22.45 PM.png)
+![](Screen%20Shot%202021-10-09%20at%2010.22.45%20PM.png)
 
 
 
